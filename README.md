@@ -9,3 +9,4 @@ if this helped you **dont forget** to give me a **star** ⭐
 
 
 <img src="src/images/coin.png" width='32' height='32' />
+<img src="src/images/weights.png" width='32' height='32' />
